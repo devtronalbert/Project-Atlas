@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives
+*.zip
+*.tar.gz
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+secrets.*
+*.pem
+*.key
+
+# WordPress generated content
+wp-content/uploads/
+wp-content/cache/
