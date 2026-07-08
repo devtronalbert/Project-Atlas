@@ -16,8 +16,7 @@ get_header();
   <div class="atlas-container">
     <div class="atlas-resume-box">
       <div>
-        <h2 style="margin-bottom:8px;">Devon Albert Resume</h2>
-        <p class="atlas-lead" style="margin:0;">The resume link expects a file available at /resume.pdf.</p>
+        <h2 style="margin-bottom:8px;">Devon Albert's Resume</h2>
       </div>
       <div class="atlas-button-row">
         <a class="atlas-btn atlas-btn-primary" href="<?php echo esc_url(atlas_resume_url()); ?>">Download Resume</a>
